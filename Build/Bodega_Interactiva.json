@@ -1,0 +1,13 @@
+{
+"companyName": "Espiral Virtual",
+"productName": "Bodegas Interactivas",
+"dataUrl": "Bodega_Interactiva.data.unityweb",
+"asmCodeUrl": "Bodega_Interactiva.asm.code.unityweb",
+"asmMemoryUrl": "Bodega_Interactiva.asm.memory.unityweb",
+"asmFrameworkUrl": "Bodega_Interactiva.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
